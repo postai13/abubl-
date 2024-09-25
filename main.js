@@ -18,3 +18,7 @@ let media=function(num5,num6,num7){
     return num5+num6+num7/3;
 }
 console.log ((3+3+6)/3)
+
+let nome =prompt('Nome?')
+document.write(Nome)
+parseInt(prompt(?)) 
