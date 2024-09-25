@@ -20,4 +20,7 @@ console.log ((3+3+6)/3)
 
 let Number1=prompt('Numero')
 document.write(numero)
-parseInt(prompt(('Numero1+numero2+numro3')/3))
+parseInt(prompt((let media=function(num5,num6,num7){
+    return num5+num6+num7/3;
+}
+console.log ((3+3+6)/3)))
