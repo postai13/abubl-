@@ -1,4 +1,3 @@
-alert('Guilherme 12 e Juliano 17')
 function soma(num1,num2){
     return num1+num2;
 }
@@ -19,6 +18,6 @@ let media=function(num5,num6,num7){
 }
 console.log ((3+3+6)/3)
 
-let estrutura=prompt('?')
-document.write('?')
-parseInt(prompt(?)) 
+let Number1=prompt('Numero')
+document.write(numero)
+parseInt(prompt('1'))
