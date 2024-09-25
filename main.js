@@ -20,4 +20,4 @@ console.log ((3+3+6)/3)
 
 let Number1=prompt('Numero')
 document.write(numero)
-parseInt(prompt('1'))
+parseInt(prompt(('Numero1+numero2+numro3')/3))
