@@ -19,6 +19,6 @@ let media=function(num5,num6,num7){
 }
 console.log ((3+3+6)/3)
 
-let nome=prompt('Nome?')
-document.write(Nome)
+let estrutura=prompt('?')
+document.write(?)
 parseInt(prompt(?)) 
