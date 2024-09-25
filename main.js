@@ -17,11 +17,3 @@ let media=function(num5,num6,num7){
     return num5+num6+num7/3;
 }
 console.log ((3+3+6)/3)
-
-let media = prompt('calculo de media')
-document.write( {
-    return num5 + num6 + num7/3;
-}
-
-console.log(media(3, 3, 6)/3); )
-parseInt(prompt('?'))
