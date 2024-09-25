@@ -21,4 +21,4 @@ console.log ((3+3+6)/3)
 
 let estrutura=prompt('?')
 document.write(?)
-parseInt(prompt(?)) 
+parseInt(prompt('?')) 
