@@ -10,6 +10,6 @@ function quadrado(num3,num4){
 console.log (quadrado(13,13))
 
 function quadradox(lado,){
-    return lado*2;
+    return lado**2;
 }
 console.log (quadradox(13))
