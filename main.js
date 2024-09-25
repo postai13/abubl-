@@ -4,7 +4,7 @@ function soma(num13,num22){
 }
 console.log (soma(13,22))
 
-function soma(num10,num23){
-    return num10*num23;
+function soma(num1,num2){
+    return num1*num2;
 }
-console.log (soma(10,23))
+console.log (soma(1,2))
