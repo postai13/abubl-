@@ -12,4 +12,4 @@ console.log (quadrado(13,13))
 function quadradox(lado,){
     return lado*2;
 }
-console.log (quadradox(169))
+console.log (quadradox(13))
