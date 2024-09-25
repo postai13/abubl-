@@ -7,4 +7,4 @@ console.log (soma(13,22))
 function soma(num3,num4){
     return num3*num4;
 }
-console.log (soma(13,22))
+console.log (soma(12,21))
