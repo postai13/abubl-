@@ -18,8 +18,8 @@ let media=function(num5,num6,num7){
 }
 console.log ((3+3+6)/3)
 
-let Number1=prompt('Numero')
-document.write(numero)
-parseInt(prompt(
-{return Nume1+Nume2+Nume3/3;}
-console.log ((3+3+6)/3)))
+let media = function(num5, num6, num7) {
+    return (num5 + num6 + num7) / 3;
+}
+
+console.log(media(3, 3, 6)); 
