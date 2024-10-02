@@ -27,7 +27,3 @@ console.log(estados[V]);
 V=V++;
 }
 
-for (let V = 0; V < estados.length; V++) {
-    const element = estados[V];
-    
-}
