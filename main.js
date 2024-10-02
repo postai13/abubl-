@@ -26,4 +26,3 @@ console.log(V);
 console.log(estados[V]);
 V=V++;
 }
-
