@@ -20,8 +20,8 @@
 
 let estados=['Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Distrito Federal','Espírito Santo','Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Gerais','Pará','Paraíba','Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins']
 
-let V=4;
-while (V<16) {
+let V=0;
+while (V<27) {
 console.log(V);
 console.log(estados[V]);
 V=V+1;
