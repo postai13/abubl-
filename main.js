@@ -20,13 +20,13 @@
 
 let estados=['Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Distrito Federal','Espírito Santo','Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Gerais','Pará','Paraíba','Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins']
 
-let =0;
+let V=0;
 while (V<estados.length) {
 console.log(V);
 console.log(estados[V]);
 V=V++;
 }
-for (let  = 0; V < estados.length; V++) {
+for (let V = 0; V < estados.length; V++) {
     console.log(V);
     console.log(estados[V]);   
 }
