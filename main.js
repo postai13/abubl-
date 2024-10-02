@@ -24,5 +24,5 @@ let V=0;
 while (V<estados.length) {
 console.log(V);
 console.log(estados[V]);
-V=V+1;
+V=V++;
 }
